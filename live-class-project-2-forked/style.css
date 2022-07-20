@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Red Rose", cursive;
+  
+}
+body{
+  background-image:linear-gradient(
+    to right,
+    rgba(46, 70, 149, 0.1),
+    rgba(39, 53, 98, 0.6)
+  ), url("assets/food.png");
+
+}
+
+/* ------------------------------ */
+/* ---------- NAVBAR ------------ */
+
+.container{
+   margin-top: 40px;
+   margin-left: 40px;
+   margin-right: 40px;
+}
+.navbar{
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  justify-content: space-around;
+} 
+.navbar img{
+  width: 150px;
+}
+.navbar .list{
+ display: flex;
+ flex-direction: row;
+ list-style-type: none;
+ align-items: center;
+ justify-content: center;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.list-item{
+  padding:  1rem;
+  color: yellow;
+}
+
+.button-small{
+  background-color: rgba(193, 13, 13, 0.842);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.hero-heading{
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ padding: .2rem;
+  font-size: 7rem;
+color: rgb(238, 238, 32);
+  margin-top: 4rem;
+}
+.hero{
+  position: relative;
+}
+.button-large{
+  background-color: rgba(193, 13, 13, 0.842);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: absolute;
+  top: 70%;
+  left: 43%;
+}
+
+.bottom{
+  
+    width: 20%;
+    margin-left: 80%;
+  
+}
+/* ------------------------------ */
+
+/* ------------------------------ */
+/* ---------- HERO ------------ */
+/* ------------------------------ */
