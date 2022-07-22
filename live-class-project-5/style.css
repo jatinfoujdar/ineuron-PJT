@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    background-image: url("assets/bg.png");
+  }
+  .navbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #000;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+    color: #fff;
+  }
+  .grow-list {
+    margin-right: auto;
+  }
+  .list-item {
+    padding-top: 10px;
+    margin: 0rem 4rem;
+    margin-right: auto;
+    font-family: "Poppins";
+  }
+  select {
+    color: #fff;
+    border: none;
+    background-color: #000;
+  }
+  .button-small {
+    color: #fff;
+    font-family: "Montserrat";
+    margin-right: 50px;
+    background-color: #ba0cc5;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  .navbar img {
+    width: 100px;
+    margin-left: 80px;
+  }
+  /* hero section */
+  .hero-heading {
+    color: #fff;
+    font-size: 5.5rem;
+    font-family: "Montserrat";
+    text-align: center;
+    padding: 100px 100px;
+    padding-bottom: 20px;
+    position: relative;
+  }
+  .hero-description {
+    color: #e5e1ea;
+    font-size: 2rem;
+    text-align: center;
+  }
+  .button-large {
+    color: #fff;
+    font-family: "Montserrat";
+    font-size: 1.3rem;
+    position: absolute;
+    top: 80%;
+    left: 40%;
+    background-color: #ba0cc5;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+  }
