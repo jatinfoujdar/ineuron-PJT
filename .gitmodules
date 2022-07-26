@@ -1,0 +1,3 @@
+[submodule "ineuronProject"]
+	path = ineuronProject
+	url = https://github.com/jatinfoujdar/ineuronProject.git
