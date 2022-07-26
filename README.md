@@ -12,4 +12,4 @@
 ### Project-4[Competition](https://comption.netlify.app/)
 ### Project-5[Token](https://token1.netlify.app)
 
-### Project-6[Developer Landing Page]()
+### Project-6[Developer Landing Page](https://plant01.netlify.app)
