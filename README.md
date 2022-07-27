@@ -2,7 +2,7 @@
 
 ![ineuron](https://img.shields.io/badge/LCO-Ineuron-yellowgreen)
 ![live class](https://img.shields.io/badge/Live%20-class-red)
-# Product-7 "product-landing-page"
+
 ##  Created by `Jatin` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br>
