@@ -14,13 +14,14 @@
 </span>
 
 
-### Project-1[CEO landing page](https://ceo1.netlify.app)
+### Project-1[CEO landing page]-(https://ceo1.netlify.app)
 
-### Project-2[Resturant page](https://resturant001.netlify.app)
+### Project-2[Resturant page]-(https://resturant001.netlify.app)
 
-### Project-3[Law and order]()
-### Project-4[Competition](https://comption.netlify.app/)
-### Project-5[Token](https://token1.netlify.app)
+### Project-3[Law and order]-()
+### Project-4[Competition]-(https://comption.netlify.app/)
+### Project-5[Token]-(https://token1.netlify.app)
 
-### Project-6[Developer Landing Page](https://plant01.netlify.app)
-### Project-7[Product Landing Page](https://product110.netlify.app)
+### Project-6[Developer Landing Page]-(https://plant01.netlify.app)
+### Project-7[Product Landing Page]-(https://product110.netlify.app)
+### Project-7[Design Landing Page]-(https://project08.netlify.app)
