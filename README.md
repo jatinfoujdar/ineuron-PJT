@@ -24,4 +24,4 @@
 
 ### Project-6[Developer Landing Page](https://plant01.netlify.app)
 ### Project-7[Product Landing Page](https://product110.netlify.app)
-### Project-7[Design Landing Page](https://project08.netlify.app)
+### Project-8[Design Landing Page](https://project08.netlify.app)
