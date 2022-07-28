@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-repeat: no-repeat;
+    background-image: url("../images/backcover.svg");
+    background-position: right bottom;
+    height: 100vh;
+}
+
+.main-div {
+    max-width: 80rem;
+    margin: 0 auto;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 15vh;
+   
+}
+.nav-items {
+    display: flex;
+    
+    color: #12131a;
+    gap: 40px;
+}
+
+nav img {
+    width: 150px;
+}
+
+.btn{
+    font-size: 1rem;
+    background: linear-gradient(to right, #965cf2, #ff8adc);
+    border: none;
+    border-radius: .8rem;
+    color: #fff;
+}
+
+.signin-btn{
+    border: none;
+    background: linear-gradient(to right, #965cf2, #ff8adc);
+    padding: 10px 30px;
+    
+    font-size: 15px;
+    color: #FFFFFF;
+    border-radius: 40px;
+    cursor: pointer;
+}
+.intro-section{
+    display: flex;
+    max-width: 400px;
+    margin-top: 100px;
+    
+}
+.intro-section .left-section {
+    max-width: 400px;
+    margin-top: 100px;
+}
+.left-section h1 {
+    color: #3e4794;
+    font-size: 4rem;
+    margin-bottom: 40px;
+}
+.left-section h4 {
+    color: #6c6c6c;
+    font-weight: normal;
+    max-width: 300px;
+    margin-bottom: 50px;
+    line-height: 25px;
+}
+
+
+
+.learn-more-btn{
+    border: none;
+    background: linear-gradient(to right, #965cf2, #ff8adc);
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #FFFFFF;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+
+.vector-img{
+    position: absolute;
+    bottom: 3rem;
+    right: 50vw;
+}
+
+.vector-dot{
+    position: absolute;
+    right: 51vw;
+    bottom: 9rem;
+}
+
+[alt="intro-img"]{
+    height: 40rem;
+    position: absolute;
+    left: 40%;
+  
+}
