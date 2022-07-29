@@ -1,0 +1,280 @@
+/* POPPINS FONT FAMILY */
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  
+}
+body{
+  background-color: #FFFFFF;
+}
+
+header{
+  display: flex;
+  background-color: rgba(11, 11, 197, 0.87);
+  margin: 0;
+  height: 70vh;
+  padding: 1rem 2rem;
+
+}
+nav {
+  order: 2;
+  margin-left: auto;
+  height: 12vh;
+  display: flex;
+ 
+  align-items: center;
+  color: #FFFFFF;
+  font-size: 13px;
+}
+
+.nav-item{
+  padding : 0 20px 0 20px;
+}
+.nav-item-active{
+  background-color: rgb(248, 244, 244);
+  color: rgb(11, 11, 222);
+ padding: .3rem .5rem ; 
+}
+.logo{
+  width: 25vh;
+}
+
+.header-image{
+  position: absolute;
+  left: 130vh;
+  top: 15vh;
+}
+.header-text{
+  position: absolute;
+  left: 10vh;
+  top: 30vh;
+  color: rgb(246, 244, 244);
+  font-size: larger;
+}
+.ht{
+  padding-top: 1rem;
+  font-size: small;
+}
+
+.companies{
+ display: flex;
+ justify-content: space-between;
+ width: 650px;
+ margin-left: 40px;
+ margin-top: 1rem;
+  font-size: large;
+}
+.company-items{
+  text-decoration: none;
+  color: rgb(12, 12, 12);
+  font-weight: bolder;
+}
+.api{
+  margin-top: 5rem;
+  font-weight: 900;
+  margin-left: 50px;
+  
+}
+.cards{
+  margin-top: 5rem;
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+.card-active .card-head-active{
+  color: rgb(139, 139, 237);
+}
+
+.blog-heading{
+  margin-top: 3rem;
+  margin-left: 50px;
+  font-weight: 1200;
+  margin-bottom: 2rem;
+}
+.blog-cards{
+  display: flex;
+  margin-left: 50px; 
+  background-color: rgb(255, 255, 255);
+  
+}
+.blog-card{
+  display: flex;
+
+}
+.blog-content{
+ margin-left: 1rem;
+ margin-left: 2rem;
+ margin-top: 4rem;
+
+}
+h6{
+  color: rgb(84, 84, 230);
+}
+.blog-bottom{
+ position:relative;
+ right:10rem;
+ top: 16rem;
+ border-radius: 50px;
+ height: 50px;
+ width: 50px;
+  display: flex;
+}
+.blog-author{
+  position:relative;
+  top: 8rem;
+  right: 4rem;
+  
+}
+
+.faq-section{
+  display: flex;
+ margin-left: 50px;
+ margin-top: 5rem;
+ 
+
+}
+h2{
+  font-size: 2.5rem;
+  font-weight: 900;
+  margin-top: 2.8rem;
+}
+h3{
+  padding-top: .5rem;
+  font-size: smaller;
+  text-align: left;
+  font-weight: 100; 
+  
+}
+.faq-image{
+  left: 14rem;
+  position:relative;
+
+}
+h4{
+  padding-top: 1rem;
+  font-weight: 700;
+  padding-bottom: 1rem;
+}
+.faq-section button{
+  background-image: linear-gradient(#1b43e4, #0b45e3);
+  border: 1px solid #0077CC;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  direction: ltr;
+  display: block;
+  font-family: "SF Pro Text","SF Pro Icons","AOS Icons","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -.022em;
+  line-height: 1.47059;
+  min-width: 30px;
+  overflow: visible;
+  padding: 4px 15px;
+  text-align: center;
+ 
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+}
+
+.download-section{
+ display: flex;
+ padding-top: 5rem;
+ padding-bottom: 2rem;
+}
+.download-content{
+  margin-left: 50px;
+}
+.download-email{
+  position: relative;
+  left: 40rem; 
+
+}
+.download-section .download-email form input {
+  outline: none;
+  border: none;
+  background-color: #e9edff;
+  padding: 1rem .5rem;
+  border-radius: 50px;
+ 
+}
+span{
+  font-weight: 100;
+}
+.download-section button{
+  align-items: center;
+  background-color: #0A66C2;
+  border: 0;
+  border-radius: 100px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 20px;
+  max-width: 480px;
+  min-height: 40px;
+  min-width: 0px;
+  overflow: hidden;
+  padding: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  touch-action: manipulation;
+  transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+}
+
+.footer-section{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+   
+  align-items: center;
+  background-color: rgb(63, 21, 228);
+  height: 150px;
+}
+.list{
+  display: flex;
+  align-items: center;
+  
+  
+}
+.list .list-items{
+  justify-content: center;
+  margin-left: 50px;
+ list-style-type: none;
+ font-size: small;
+  color: rgb(255, 255, 255);
+}
+.footer-logo{
+  margin-left: 50px;
+  padding-bottom: 1rem;
+}
+.footer-right{
+  margin-right: 40px;
+ padding-top: 1rem;
+ 
+ 
+}
+
+.logos-list .list-items{
+  display: flex;
+ 
+  
+  color: rgb(243, 240, 240);
+  
+}
