@@ -2,7 +2,8 @@
 
 ![ineuron](https://img.shields.io/badge/LCO-Ineuron-yellowgreen)
 ![live class](https://img.shields.io/badge/Live%20-class-red)
-<img src ="https://img.shields.io/aur/last-modified/ineuron-PJT?style=for-the-badge"/>
+<img src ="https://img.shields.io/badge/build%20-passing-lightgrey"/>
+<img src ="https://img.shields.io/badge/service-passing-lightgrey"/>
 ##  Created by `Jatin` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br>
