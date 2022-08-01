@@ -8,9 +8,7 @@
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </span>
 
-##  How website looks like
 
-<img src="https://github.com/Muskan-creator/Interior-design-webpage/blob/master/10.png" height="60%" width="50%">
 
 ## What I have learned in this project?
 
@@ -21,3 +19,6 @@
 
 ## This project took around 2 hours to complete .
 
+##  How website looks like
+
+<img src="https://github.com/Muskan-creator/Interior-design-webpage/blob/master/10.png" height="60%" width="50%">
