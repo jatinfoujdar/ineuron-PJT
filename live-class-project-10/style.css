@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@500&family=Roboto:wght@300&display=swap');
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	background-image: url("./Interior Design Landing Page/landing_bg.jpeg");
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+header{
+	position:relative;
+}
+nav{
+	margin:1rem 2rem;
+	display:flex;
+
+	flex-direction: row;
+	justify-content: space-between;
+}
+.line .circle{
+	position:absolute;
+	height:20px;
+	width:20px;
+	border-radius: 50px;
+	background-color: #fff;
+	bottom:0;
+	left:-8px;
+}
+
+hr{
+	width:50%;
+	margin-left:40rem;
+	color:#fff;
+}
+.logo-img{
+	margin-top:20px;
+	font-size:1.6rem;
+	color:#fff;
+	text-transform: uppercase;
+}
+
+.list{
+	display:flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	margin-right:120px;
+}
+
+
+.list-active span{
+	padding-left:20px;
+}
+
+.list-item{
+	color:#fff;
+	margin :1rem 1.8rem;
+	list-style-type: none;
+	font-weight:700;
+	font-family: 'Red Rose', cursive;
+    font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+}
+.card1{
+	
+	position:absolute;
+	top:40%;
+	left:70%;
+	background-color:rgba(255,255,255,0.1);
+	color:#fff;
+
+}
+.card1 h4{
+	color:#fff;
+	margin-left:20px;
+	margin-bottom:20px;
+}
+.fa-solid.fa-puzzle-piece{
+	background-color: #fff;
+	padding:10px 30px;
+	color:#000;
+	border-radius: 30px;
+
+	margin:20px 20px;
+
+}
+.fa-regular.fa-lightbulb{
+	margin:20px 20px;
+	background-color: #fff;
+	padding:10px 30px;
+	color:#000;
+	border-radius: 30px;
+	
+}
+.line1{
+	position:absolute;
+	height:70px;
+	width:1px;
+	background-color: rgb(163, 189, 219);
+	right:34px;
+	top:134px;
+	transform:rotate(180deg);
+}
+.line1 .circle{
+	position:absolute;
+	height:20px;
+	width:20px;
+	border-radius: 50px;
+	background-color: #fff;
+	top:0px;
+	left:-10px;
+}
+.card2{
+	position:absolute;
+	width:15vw;
+	left:50%;
+	background-color:rgba(255,255,255,0.1);
+
+}
+.card2 h4{
+	font-weight: bold;
+	margin-left:20px;
+	margin-bottom:20px;
+	
+	color:#fff;
+}
+.fa-solid.fa-phone-volume{
+	transform: rotate(-52deg);
+}
+
+.header{
+	margin-left: 100px;
+}
+.header-text{
+	margin-top:80px;
+	color:#fff;
+	font-size:1.8rem;
+	
+	font-weight: 800;
+}
+.head-btn{
+	margin-top:50px;
+	color: #fff;
+     border:2px solid #fff;
+	font-weight: 700;
+	padding: 10px 20px;
+	font-size:1.4rem;
+	background-color: transparent;
+	text-transform: uppercase;
+	border-radius: 30px;
+}
+.line{
+	position:absolute;
+	height:70px;
+	
+	background-color: #fff;
+	right:-34px;
+	width:1px;
+	background-color: rgb(163, 189, 219);
+	top:20px;
+	transform:rotate(-90deg);
+}
+
