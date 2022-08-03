@@ -1,25 +1,26 @@
-# Assignment 1
+# Assignment 13
 
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
-![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
 
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
-![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--13-lightgrey)
 
-![name](https://img.shields.io/badge/Kaushal--Mehta-MCA--last--year-lightgrey)
 
-## Project 13 [Live Link](https://live-proj-13.netlify.app)
+
+
+## Project 8 
 
 -   Skills Gained in this project
-    -   Learned to create and use css variables in this project.
-    -   Learned to create svg patterns in adobe xd.
+    -   Learnd to use css position [Relative & Absolute] property.
+   
+- learn flexbox properties.
 
 ---
 
 ## Time taken to finish this project
 
--   1.5 hour taken to complete it.
+-   2.5 hour to complete it.
+
 
 #### Screenshot
 
-![Desktop](./screenshots/project-13.png)
+![Desktop](./13.png)
