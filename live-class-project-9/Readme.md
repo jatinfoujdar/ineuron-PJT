@@ -21,7 +21,7 @@
   - I have learned about z-index,positioning
   - I have also learned how to use margin and padding
   -   Skills Gained in this project
-    -   Learnd to use css position [Relative & Absolute] property.
+ 
    
 - learn flexbox properties.
 
