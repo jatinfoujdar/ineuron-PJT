@@ -1,27 +1,23 @@
-# Tailwind Manage Landing Page
+# Product-7 "Pensil Landing Page"
+>
 
-This is the project from my 2022 Tailwind Crash Course on YouTube.
+<br>
+<span>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23404d59.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</span>
 
-![Alt text](/img/screen.png?raw=true)
 
-# Usage
 
-Install dependencies (Tailwind)
 
-```
-npm install
-```
+## What I have learned in this project?
 
-Run the Tailwind CLI to compile the **input.css** during development. The output file is **css/main.css**
+  - I have learned about background image positioning
+  - I have learned about positioning of discount content
+ 
+  - Learnt transitioning properties and animation
 
-```
-npm run watch
-```
-
-To build once run...
-
-```
-npm run build
-```
-
-You can edit the scripts in package.json and the tailwind.config.js file to change input/output locations
+## This project took around 2.5 hours to complete .
+<img src="./image/pensil.png" >
