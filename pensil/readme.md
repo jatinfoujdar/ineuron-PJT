@@ -19,5 +19,5 @@
  
   - Learnt transitioning properties and animation
 
-## This project took around 2.5 hours to complete .
+
 <img src="./img/pensil.png" >
