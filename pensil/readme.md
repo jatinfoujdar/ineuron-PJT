@@ -11,10 +11,9 @@
 
 </span>
 
+![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
 
-  ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
-
-![HTML & CSS](https://img.shields.io/badge/HTML-CSS
+![HTML & CSS](https://img.shields.io/badge/HTML-CSS)
 
 ## What I have learned in this project?
 -This project provides multiple blocks built using Tailwind CSS that you can use in your own projects.
