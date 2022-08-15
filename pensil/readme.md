@@ -13,7 +13,7 @@
 
 
 ## What I have learned in this project?
-
+-This project provides multiple blocks built using Tailwind CSS that you can use in your own projects.
   - I have learned about background image positioning
   - I have learned about positioning of discount content
  
