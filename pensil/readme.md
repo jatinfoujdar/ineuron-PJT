@@ -1,3 +1,7 @@
+
+![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
+
+![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 # Project-16 "Pensil Landing Page"
 >
 
